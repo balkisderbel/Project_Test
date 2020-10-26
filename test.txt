@@ -3,4 +3,8 @@ Bonjour!
 Hola!
 Ciao!
 
+<<<<<<< HEAD
 Causing sone conflicts :/
+=======
+Adding some updates.
+>>>>>>> updates-branch
